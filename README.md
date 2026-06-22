@@ -35,21 +35,6 @@ O sistema foi pensado para ser prático, seguro e direto ao ponto:
   Uma aplicação robusta e intuitiva para o gerenciamento de atividades diárias, desenvolvida com princípios de Arquitetura Limpa e Clean Code.
 </p>
 
----
-
-## 🚀 Funcionalidades
-
-O sistema foi pensado para ser prático e eficiente, contando com as seguintes funcionalidades:
-
-- **🔐 Autenticação Segura:** Sistema de login para proteger o acesso à plataforma.
-- **✨ Gestão de Tarefas (CRUD):** Capacidade total para Criar, Ler, Atualizar e Deletar tarefas.
-- **🖥️ Interface Intuitiva:** Um painel web amigável e direto ao ponto para o usuário final.
-- **📚 Documentação Automática:** API totalmente documentada via Swagger e ReDoc.
-- **🛡️ Tratamento de Erros:** Retornos elegantes e claros para exceções e rotas não encontradas.
-- **🧪 Testes Automatizados:** Cobertura de testes garantindo a estabilidade das rotas principais.
-
-
----
 
 ## 🛠️ Tecnologias e Armazenamento
 
