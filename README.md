@@ -1,4 +1,4 @@
-CD<<<<<<< HEAD
+
 <h1 align="center"> 📝 Gerenciador de Tarefas </h1>
 
 <p align="center">  
@@ -20,7 +20,7 @@ O sistema foi pensado para ser prático, seguro e direto ao ponto:
 - **📊 Dashboard Integrado:** Métricas em tempo real sobre tarefas totais, concluídas e pendentes.
 - **🚦 Alertas Visuais:** Destaca automaticamente prazos atrasados e bloqueia a criação de tarefas com datas retroativas.
 - **🔗 Sub-tarefas e Delegação:** Permite atribuir tarefas a outros membros da equipe e bloqueia a conclusão de grandes projetos caso existam sub-tarefas pendentes.
-=======
+
 
 
 ## 🛠️ Tecnologias e Armazenamento
@@ -34,7 +34,7 @@ Este projeto foi construído unindo o poder de um backend moderno com um fronten
 ---
 
 ## ⚙️ Como executar o projeto localmente
-=======
+
 
 Este projeto foi construído unindo o poder de um backend moderno com um frontend leve:
 
@@ -62,5 +62,5 @@ pip install -r requirements.txt
 Inicie o servidor web:
 Bash
 python -m uvicorn main:app --reload
-=======
+
 
