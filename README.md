@@ -21,19 +21,6 @@ O sistema foi pensado para ser prático, seguro e direto ao ponto:
 - **🚦 Alertas Visuais:** Destaca automaticamente prazos atrasados e bloqueia a criação de tarefas com datas retroativas.
 - **🔗 Sub-tarefas e Delegação:** Permite atribuir tarefas a outros membros da equipe e bloqueia a conclusão de grandes projetos caso existam sub-tarefas pendentes.
 =======
-<h1 align="center"> 📝 Sistema de Gerenciamento de Tarefas </h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-</p>
-
-<p align="center">
-  Uma aplicação robusta e intuitiva para o gerenciamento de atividades diárias, desenvolvida com princípios de Arquitetura Limpa e Clean Code.
-</p>
 
 
 ## 🛠️ Tecnologias e Armazenamento
@@ -41,7 +28,7 @@ O sistema foi pensado para ser prático, seguro e direto ao ponto:
 Este projeto foi construído unindo o poder de um backend moderno com um frontend leve e dinâmico:
 * **🐍 Python (FastAPI):** O motor assíncrono da nossa aplicação, garantindo rotas rápidas e validadas.
 * **🌐 HTML / CSS / JS Vanilla:** Interface construída sem frameworks pesados, consumindo a API de forma dinâmica com `fetch`.
-* **☁️ Supabase (PostgreSQL):** Banco de dados relacional hospedado na nuvem, garantindo disponibilidade, segurança e dispensando a necessidade de containers locais complexos.
+* 🐳 Docker (PostgreSQL): Banco de dados relacional rodando em containers, garantindo um ambiente isolado, padronizado e fácil de reproduzir em qualquer máquina.
 * **🗄️ SQLAlchemy & Pytest:** Framework ORM para mapeamento de tabelas e suíte de testes automatizados garantindo a qualidade do código.
 
 ---
